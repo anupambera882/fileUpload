@@ -1,0 +1,5 @@
+# ignores all .md files
+/node_modules/
+
+# does not ignore the README.md file
+!README.md
